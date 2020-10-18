@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Name is Soumya Ranjan Mishra,
+My name is Soumya Ranjan Mishra,
 I am working as Data Scientist/Senior Developer/Product Owner in SAP LABS.
 
 <!--
