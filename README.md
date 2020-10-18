@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Soumya Data Scientist at SAP LABS
+I am Soumya, Data Scientist/Senior Developer at SAP LABS
+
 <!--
 **soumya-mishra/soumya-mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
