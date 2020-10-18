@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Soumya's github stats](https://github-readme-stats.vercel.app/api?username=soumya-mishra&show_icons=true&theme=radical)
