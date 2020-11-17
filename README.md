@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ![Soumya Mishra's github stats](https://github-readme-stats.vercel.app/api?username=soumya-mishra&count_private=true&show_icons=true&theme=merko)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-mishra)](https://github.com/soumya-mishra/github-readme-stats)
 
 
