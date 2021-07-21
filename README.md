@@ -1,7 +1,6 @@
 ### Hi there 👋
 My name is Soumya Ranjan Mishra,
 Working as Data Scientist/Senior Developer/Product Owner in SAP LABS.
-
 <!--
 **soumya-mishra/soumya-mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
